@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-E65100?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
-### Frameworks | Environment
+### Frameworks & Environment
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
